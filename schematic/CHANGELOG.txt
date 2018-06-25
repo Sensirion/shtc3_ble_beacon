@@ -1,0 +1,11 @@
+2017-10 Initial Version 1.0
+
+2018-05-21 Version 2.0
+- Move SHT to get area around for sealing
+- Move C6 to free area for sealing
+- Add Edge in EdgeCut for Screw in Housing
+- Change battery from 1632 to 2032
+- Add programmer port Tag Connect TC2030 IDC NL for Cortex Pinout
+- Add some 3D models
+- Relocate manual solder pads
+- Relocate Silk Screen

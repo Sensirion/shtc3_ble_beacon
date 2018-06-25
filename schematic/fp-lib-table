@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name rht_beacon_footprints)(type KiCad)(uri "$(KIPRJMOD)/rht_beacon_footprints.pretty")(options "")(descr ""))
+)
