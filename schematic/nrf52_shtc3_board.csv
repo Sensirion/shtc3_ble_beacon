@@ -1,13 +1,19 @@
-Designator,MPN/Seeed SKU,Quantity
-BAT1,BU1632SM-JJ-GTR,1
-"R1,R2,R3",10k,3
-C1,1uF,1
-"C2,C3",10uF,2
-"C4,C5",12pF,2
-C6,100nF,1
-L1,10uH,1
-L2,15nH,1
-S1,SHTC3,1
-B1,B3U-1000P,1
-IC1,317030213,1
-Y1,Crystal,1
+Id;Designator;Package;Quantity;Designation;Supplier and ref
+1;S1;DFN_4_pin_2x2;1;SHTC3;
+2;IC1;RF_Module_42_pin;1;MDBT42Q_NRF52832;
+3;B1;SW_SPST_B3U-1000P;1;Omron Electronics Inc-EMC Div B3U-1000P;
+4;BAT1;BAT_Holder_2032;1;MPD (Memory Protection Devices) BU2032SM-JJ-GTR;
+5;Y1;Crystal_1.6x1_2pad;1;Abracon LLC ABS05-32.768KHZ-9-T;
+6;R1,R2,R3;R_0603;3;10k;
+7;CLK1;WirePad_1mm_SMD;1;CLK;
+8;GND1;WirePad_1mm_SMD;1;GND;
+9;RES1;WirePad_1mm_SMD;1;RES;
+10;SWDIO1;WirePad_1mm_SMD;1;SWDIO;
+11;VDD1;WirePad_1mm_SMD;1;VDD;
+12;P1;TC2030-NL_SMALL;1;TC2030-CTX;
+13;C1;C_0603;1;1uF;
+14;C2,C3;C_0603;2;10uF;
+15;C4,C5;C_0603;2;12pF;
+16;C6;C_0603;1;100nF;
+17;L1;C_0603;1;10uH;
+18;L2;C_0603;1;15nH;
