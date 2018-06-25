@@ -1,9 +1,13 @@
-# shtc3_ble_beacon
-Small CR2032 battery driven BLE Beacon with Sensirion's Humidity and Temperature Sensor
-# Clone this repository
+# SHTC3 BLE Beacon
+Small CR2032 battery driven BLE beacon with Sensirion's humidity and temperature sensor
+
+## Clone this repository
+```
 git clone --recursive https://github.com/Sensirion/shtc3_ble_beacon.git
-# Repository content
-firmware (hex files and source code to program the mikrocontroller)
-schematics (schematics, pcb layout and gerber files)
-housing (STEP file for the housing parts)
-software (software to read out the beacon data with a Raspberry Pi)
+```
+
+## Repository content
+* firmware (hex files and source code to program the microcontroller)
+* schematics (schematics, PCB layout and gerber files)
+* housing (STEP file for the housing parts)
+* software (software to read out the beacon data with a Raspberry Pi)
