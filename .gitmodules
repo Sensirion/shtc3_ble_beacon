@@ -1,0 +1,3 @@
+[submodule "software/scanner_ble_advertising"]
+	path = software/scanner_ble_advertising
+	url = https://github.com/switchdoclabs/iBeacon-Scanner-
