@@ -1,0 +1,78 @@
+body{
+	background: #333333;
+	overflow: hidden;
+	font-family: sans;
+}
+
+div#container{
+	width: 780px;
+	height: 460px;
+	margin: 10px auto 10px auto;
+	background: #FFFFFF;
+	border-radius: 10px;
+	box-shadow: 1px 1px 5px #000000;
+}
+
+div#container img#logo{
+	position: relative;
+	top: 0px;
+	width: 128px;
+	margin: 0px 0px 0px 0px;
+}
+
+div#container img#loader{
+	position: relative;
+	left: 250px;
+}
+
+div#container p.action{
+	display: block;
+	text-align: center;
+	font-size: 24px;
+	text-shadow: 1px 1px 2px #000000;
+}
+
+div#container div#title{
+	float: right;
+	font-family: sans;
+	font-size: 32px;
+	font-weight: bold;
+	text-shadow: 1px 1px 2px #000000;
+	margin: 40px 70px 10px 0px;
+	border-bottom: 1px solid #CCCCCC;
+}
+
+div#container div#g1{
+	float: left;
+	margin: 0px 0px 25px 0px;
+	height: 200px;
+	width: 300px;
+}
+
+div#container div#g2{
+	float: left;
+	margin: 0px 0px 25px 0px;
+	height: 200px;
+	width: 300px;
+}
+
+div#container div#g3{
+	float: left;
+	margin: -25px 0px 25px 25px;
+	height: 120px;
+	width: 250px;
+}
+
+div#container div#g4{
+	float: left;
+	margin: -25px 0px 25px 50px;
+	height: 120px;
+	width: 250px;
+}
+
+div#container div#controls{
+	margin: 0px 10px 0px 0px;
+	float: right;
+	text-align: center;
+}
+

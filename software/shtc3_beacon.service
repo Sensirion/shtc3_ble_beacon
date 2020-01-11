@@ -1,0 +1,9 @@
+[Service]
+Type=simple
+User=pi
+ExecStartPre=/bin/sleep 10
+ExecStart=/home/pi/shtc3_beacon.sh
+
+[Install]
+WantedBy=multi-user.target
+
